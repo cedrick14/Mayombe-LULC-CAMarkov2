@@ -104,4 +104,4 @@ conditions specified in `DATA_AVAILABILITY.md`.
 
 ## 8. Contact
 
-[Cédrick ONDON] — [LGETA affiliation / Université Marien Ngouabi / CRDPI] — [contact email]
+cedrickbelmichondonnkoua@gmail.com
