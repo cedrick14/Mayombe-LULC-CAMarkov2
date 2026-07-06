@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the associated article and this repository. This is a code reproducibility repository: it contains the complete source code of both pipelines (pipeline_1_lulc_gee/ and pipeline_2_camarkov/). This work was carried out within the Climate Smart Agrifood Systems (CSAS) project. Data access is restricted."
+type: software
+title: "Mayombe LULC Classification & CA-Markov Reproducible Pipeline"
+keywords:
+  - "Climate Smart Agrifood Systems (CSAS)"
+  - "LULC classification"
+  - "CA-Markov"
+  - "Google Earth Engine"
+  - "forest dynamics"
+  - "Congo Basin"
+authors:
+  - family-names: "Ondon"
+    given-names: "Cédrick"
+    affiliation: "Laboratoire de Géomatique et d'Écologie Tropicale Appliquée (LGETA), Université Marien Ngouabi / CRDPI"
+version: "1.0.0"
+date-released: "2026-07-06"
+repository-code: "https://github.com/[your-username]/[repository-name]"
+license: MIT
+preferred-citation:
+  type: article
+  title: "[Full article title]"
+  authors:
+    - family-names: "Ondon"
+      given-names: "Cédrick"
+  journal: "[Journal name]"
+  year: 2026
+  doi: "[DOI to be completed after publication]"
