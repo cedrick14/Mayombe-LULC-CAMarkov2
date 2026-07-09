@@ -1,5 +1,5 @@
 # Spatio-temporal Dynamics of the Congolese Mayombe Forest (2000–2025)
-### Mvouti District — LULC Classification (GEE) & CA-Markov Modeling — Reproducibility Repository
+### Mvouti District  LULC Classification (GEE) & CA-Markov Modeling Reproducibility Repository
 
 > This is a code reproducibility repository: it contains the complete
 > source code of both pipelines. This work was carried out within the
